@@ -1,0 +1,28 @@
+_repo: The-Conscript--A-Story-of-the-French-war-of-1813_31288
+_version: 0.1.0
+alternative_title: Histoire d'un conscrit de 1813. English
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Erckmann-Chatrian
+    gutenberg_agent_id: '2680'
+    url: http://www.gutenberg.org/2009/agents/2680
+    wikipedia: http://en.wikipedia.org/wiki/Erckmann-Chatrian
+description: 'Sequel: Waterloo, #31289.'
+gutenberg_issued: '2010-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31288'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Napoleonic Wars, 1800-1815 -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Fiction'
+- !lcsh 'Wars of Liberation, 1813-1814 -- Fiction'
+title: 'The Conscript: A Story of the French war of 1813'
+url: http://www.gutenberg.org/ebooks/31288
